@@ -26,32 +26,32 @@
 		</comps>
 		<stages>
 			<li Class="Pawnmorph.Hediffs.MutationStage">
-				<labelOverride>light hair</labelOverride>
-				<description>[PAWN_nameDef]'s skin seems to be slightly hairier than it was before.</description>
+				<labelOverride>a</labelOverride>
+				<description>a</description>
 				<minSeverity>0</minSeverity>
 				<statOffsets>
 					<ComfyTemperatureMin>-0.02</ComfyTemperatureMin>
 				</statOffsets>
 			</li>
 			<li Class="Pawnmorph.Hediffs.MutationStage">
-				<labelOverride>fur dusting</labelOverride>
-				<description>Very fine fur — too dense to be hair — is sprouting over [PAWN_nameDef]'s limb.</description>
+				<labelOverride>a</labelOverride>
+				<description>a</description>
 				<minSeverity>0.2</minSeverity>
 				<statOffsets>
 					<ComfyTemperatureMin>-0.04</ComfyTemperatureMin>
 				</statOffsets>
 			</li>
 			<li Class="Pawnmorph.Hediffs.MutationStage">
-				<labelOverride>thin fur</labelOverride>
-				<description>The fur on the skin here is quickly thickening as it spreads over [PAWN_nameDef]'s limb.</description>
+				<labelOverride>a</labelOverride>
+				<description>a</description>
 				<minSeverity>0.4</minSeverity>
 				<statOffsets>
 					<ComfyTemperatureMin>-0.08</ComfyTemperatureMin>
 				</statOffsets>
 			</li>
 			<li Class="Pawnmorph.Hediffs.MutationStage">
-				<labelOverride>fur patches</labelOverride>
-				<description>There is not much bare skin left on [PAWN_nameDef]'s limb, much of it has been covered by patches of fur.</description>
+				<labelOverride>a</labelOverride>
+				<description>a</description>
 				<minSeverity>0.6</minSeverity>
 				<statOffsets>
 					<ComfyTemperatureMin>-0.1</ComfyTemperatureMin>
