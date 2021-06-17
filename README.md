@@ -10,5 +10,5 @@ Based on  Humanoid Alien Races 2.0 https://steamcommunity.com/workshop/filedetai
  Pawnmorpher https://steamcommunity.com/workshop/filedetails/?id=1786466855
 change speeds while in water tiles speed through 
  SwimmingKit https://steamcommunity.com/sharedfiles/filedetails/?id=1542399915&searchtext=SWIMMINGKIT
-
+change speeds on ground tiles speed through
  TerrainMovementKit https://steamcommunity.com/sharedfiles/filedetails/?id=2048567351
