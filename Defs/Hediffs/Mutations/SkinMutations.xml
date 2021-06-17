@@ -1,0 +1,71 @@
+<Defs>
+	<Pawnmorph.Hediffs.MutationDef ParentName="PawnmorphSkinPart" Name="FurredLimb">
+		<defName>EtherSmoothLimb</defName>
+		<description>!needed!</description>
+		<label>fishskin</label>
+		<maxSeverity>1</maxSeverity>
+		<initialSeverity>0</initialSeverity>
+		<classInfluence>AquaticAnimal</classInfluence>
+		<mutationTale>SkinsBecameSmoothSkins</mutationTale>
+		<mutationMemory>EtherSmoothLimb</mutationMemory>
+		<parts>
+			<li>Torso</li>
+			<li>Head</li>
+			<li>Ear</li>
+			<li>Arm</li>
+			<li>Hand</li>
+			<li>Leg</li>
+			<li>Foot</li>
+			<li>Tail</li>
+			<li>MorphTail</li>
+		</parts>
+		<comps>
+			<li Class="Pawnmorph.Hediffs.CompProperties_MutationSeverityAdjust">
+				<severityPerDay>0.33</severityPerDay>
+			</li>
+		</comps>
+		<stages>
+			<li Class="Pawnmorph.Hediffs.MutationStage">
+				<labelOverride></labelOverride>
+				<description></description>
+				<minSeverity>0</minSeverity>
+				<statOffsets>
+					<ComfyTemperatureMin>-0.02</ComfyTemperatureMin>
+				</statOffsets>
+			</li>
+			<li Class="Pawnmorph.Hediffs.MutationStage">
+				<labelOverride></labelOverride>
+				<description></description>
+				<minSeverity>0.2</minSeverity>
+				<statOffsets>
+					<ComfyTemperatureMin>-0.04</ComfyTemperatureMin>
+				</statOffsets>
+			</li>
+			<li Class="Pawnmorph.Hediffs.MutationStage">
+				<labelOverride></labelOverride>
+				<description></description>
+				<minSeverity>0.4</minSeverity>
+				<statOffsets>
+					<ComfyTemperatureMin>-0.08</ComfyTemperatureMin>
+				</statOffsets>
+			</li>
+			<li Class="Pawnmorph.Hediffs.MutationStage">
+				<labelOverride></labelOverride>
+				<description></description>
+				<minSeverity>0.6</minSeverity>
+				<statOffsets>
+					<ComfyTemperatureMin>-0.1</ComfyTemperatureMin>
+				</statOffsets>
+			</li>
+			<li Class="Pawnmorph.Hediffs.MutationStage">
+				<minSeverity>0.8</minSeverity>
+				<statOffsets>
+					<ComfyTemperatureMin>-0.2</ComfyTemperatureMin>
+				</statOffsets>
+			</li>
+		</stages>
+		<categories>
+			<li>Minor</li>
+		</categories>
+	</Pawnmorph.Hediffs.MutationDef>
+</Defs>
