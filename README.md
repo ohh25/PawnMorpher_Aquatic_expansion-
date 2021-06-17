@@ -1,3 +1,12 @@
 # PawnMorpher_Aquatic_expansion-
 the pie in the sky of a Pawnmorpher Aquatic animal creatures expansion
-change watering speed through SwimmingKit
+
+Todo list:
+
+How:
+Based on Humanoid Alien Races 2.0 https://steamcommunity.com/workshop/filedetails/?id=839005762
+HugsLib https://steamcommunity.com/workshop/filedetails/?id=818773962
+Harmony https://steamcommunity.com/workshop/filedetails/?id=2009463077
+Pawnmorpher https://steamcommunity.com/workshop/filedetails/?id=1786466855
+
+change the  speed through SwimmingKit
