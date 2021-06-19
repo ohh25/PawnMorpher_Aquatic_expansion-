@@ -1,5 +1,5 @@
 <Defs>
-	<Pawnmorph.Hediffs.MutationDef ParentName="PawnmorphSkinPart" Name="FurredLimb">
+	<Pawnmorph.Hediffs.MutationDef ParentName="PawnmorphSkinPart" Name="SmoothSkin">
 		<defName>EtherSmoothLimb</defName>
 		<description>!needed!</description>
 		<label>fishskin</label>
@@ -30,37 +30,37 @@
 				<description>a</description>
 				<minSeverity>0</minSeverity>
 				<statOffsets>
+					<ComfyTemperatureMin>-0.01</ComfyTemperatureMin>
+				</statOffsets>
+			</li>
+			<li Class="Pawnmorph.Hediffs.MutationStage">
+				<labelOverride>b</labelOverride>
+				<description>b</description>
+				<minSeverity>0.2</minSeverity>
+				<statOffsets>
 					<ComfyTemperatureMin>-0.02</ComfyTemperatureMin>
 				</statOffsets>
 			</li>
 			<li Class="Pawnmorph.Hediffs.MutationStage">
-				<labelOverride>a</labelOverride>
-				<description>a</description>
-				<minSeverity>0.2</minSeverity>
-				<statOffsets>
-					<ComfyTemperatureMin>-0.04</ComfyTemperatureMin>
-				</statOffsets>
-			</li>
-			<li Class="Pawnmorph.Hediffs.MutationStage">
-				<labelOverride>a</labelOverride>
-				<description>a</description>
+				<labelOverride>c</labelOverride>
+				<description>c</description>
 				<minSeverity>0.4</minSeverity>
 				<statOffsets>
-					<ComfyTemperatureMin>-0.08</ComfyTemperatureMin>
+					<ComfyTemperatureMin>-0.05</ComfyTemperatureMin>
 				</statOffsets>
 			</li>
 			<li Class="Pawnmorph.Hediffs.MutationStage">
-				<labelOverride>a</labelOverride>
-				<description>a</description>
+				<labelOverride>d</labelOverride>
+				<description>d</description>
 				<minSeverity>0.6</minSeverity>
 				<statOffsets>
-					<ComfyTemperatureMin>-0.1</ComfyTemperatureMin>
+					<ComfyTemperatureMin>-0.07</ComfyTemperatureMin>
 				</statOffsets>
 			</li>
 			<li Class="Pawnmorph.Hediffs.MutationStage">
 				<minSeverity>0.8</minSeverity>
 				<statOffsets>
-					<ComfyTemperatureMin>-0.2</ComfyTemperatureMin>
+					<ComfyTemperatureMin>-0.1</ComfyTemperatureMin>
 				</statOffsets>
 			</li>
 		</stages>

@@ -1,0 +1,43 @@
+<Defs>
+    <ThoughtDef ParentName="OutlookMemoryBase">
+		<defName>PMAE_BaseAquaticChangedThought</defName>
+		<stages>
+			<li>
+				<label>morphed</label>
+				<description>a</description>
+				<baseMoodEffect>-3</baseMoodEffect>
+			</li>
+			<li>
+				<label>morphed</label>
+				<description>b</description>
+				<baseMoodEffect>+3</baseMoodEffect>
+			</li>
+			<li>
+				<label>morphed</label>
+				<description>c</description>
+				<baseMoodEffect>-5</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+
+	<ThoughtDef ParentName="OutlookMemoryBase">
+		<defName>PMAE_BaseAquaticRevertedThought</defName>
+		<stages>
+			<li>
+				<label>reverted</label>
+				<description>a</description>
+				<baseMoodEffect>3</baseMoodEffect>
+			</li>
+			<li>
+				<label>reverted</label>
+				<description>b</description>
+				<baseMoodEffect>-3</baseMoodEffect>
+			</li>
+			<li>
+				<label>reverted</label>
+				<description>c</description>
+				<baseMoodEffect>10</baseMoodEffect>
+			</li>
+		</stages>
+	</ThoughtDef>
+</Defs>

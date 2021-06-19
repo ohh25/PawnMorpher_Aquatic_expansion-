@@ -1,0 +1,7 @@
+<Defs>
+    <ThingDef ParentName="InjectorBase" Name="PMAE_AquaticInjector" Abstract="True">
+        <costList>
+            <PMAE_Aquatic>3</PMAE_Aquatic>
+            <MechaniteSlurry>1</MechaniteSlurry>
+        </costList>
+    </ThingDef>

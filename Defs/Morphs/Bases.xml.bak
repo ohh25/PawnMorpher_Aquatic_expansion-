@@ -1,0 +1,30 @@
+<Defs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Schemas/MorphDef.xsd">
+    <Pawnmorph.MorphDef Name="PMAE_AquaticBase" Abstract="true">
+        <classification>Aquatic</classification>
+        <transformSettings>
+            <transformationMemory>PMAE_BaseInsectChangedThought</transformationMemory>
+            <revertedMemory>PMAE_BaseInsectRevertedThought</revertedMemory>
+        </transformSettings>
+    </Pawnmorph.MorphDef>
+
+    <Pawnmorph.MorphDef Name="PMI_CombatAquaticBase" ParentName="PMI_AquaticMorphBase" Abstract="true">
+        <categories>
+            <li>Combat</li>
+        </categories>
+    </Pawnmorph.MorphDef>
+    <Pawnmorph.MorphDef Name="PMI_DefendAquaticBase" ParentName="PMI_AquaticMorphBase" Abstract="true">
+        <categories>
+            <li>Defend</li>
+        </categories>
+    </Pawnmorph.MorphDef>
+    <Pawnmorph.MorphDef Name="PMI_IntelligenceAquaticBase" ParentName="PMI_AquaticMorphBase" Abstract="true">
+        <categories>
+            <li>Intelligence</li>
+        </categories>
+    </Pawnmorph.MorphDef>
+    <Pawnmorph.MorphDef Name="PMI_SpeedAquaticBase" ParentName="PMI_AquaticMorphBase" Abstract="true">
+        <categories>
+            <li>Speed</li>
+        </categories>
+    </Pawnmorph.MorphDef>
+</Defs>
