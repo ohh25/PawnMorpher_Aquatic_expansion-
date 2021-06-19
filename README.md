@@ -3,13 +3,13 @@ the pie in the sky of a Pawnmorpher Aquatic animal creatures expansion
 
 Todo list:
 	finalize 
-Tortoise morph
+  Tortoise morph
 	add 
-shark morph (speed+attack)
-dolphin morph (speed+intelligence)
-orca morph (heavy)
-lobster morph (heavy+attack)
-anglerfish morph (mobile light)
+  shark morph (speed+attack)
+  dolphin morph (speed+intelligence)
+  orca morph (heavy)
+  lobster morph (heavy+attack)
+  anglerfish morph (mobile light)
 
 How:
  Based on  Humanoid Alien Races 2.0 https://steamcommunity.com/workshop/filedetails/?id=839005762
