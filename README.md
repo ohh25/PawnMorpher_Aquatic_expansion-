@@ -10,6 +10,13 @@ Todo list:
   orca morph (heavy)
   lobster morph (heavy+attack)
   anglerfish morph (mobile light)
+  seasnake (speed+attack)
+
+Pie list:
+Living/Working in water
+Food catching(aka fishing)
+
+
 
 How:
  Based on  Humanoid Alien Races 2.0 https://steamcommunity.com/workshop/filedetails/?id=839005762
