@@ -2,19 +2,19 @@
 the pie in the sky of a Pawnmorpher Aquatic animal creatures expansion
 
 Todo list:
-	finalize 
+	|finalize 
   Tortoise morph
-	add 
+	|add 
   shark morph (speed+attack)
-  dolphin morph (speed+intelligence)
-  orca morph (heavy)
-  lobster morph (heavy+attack)
-  anglerfish morph (mobile light)
-  seasnake (speed+attack)
+  |dolphin morph (speed+intelligence)
+  |orca morph (heavy)
+  |lobster morph (heavy+attack)
+  |anglerfish morph (mobile light)
+  |seasnake (speed+attack)
 
-Pie list:
+|Pie list:
 Living/Working in water
-Food catching(aka fishing)
+|Food catching(aka fishing)
 
 
 
